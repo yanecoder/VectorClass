@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Python\\ProjectsCpp\\VectrorClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1057E803-45B3-4229-8187-E665F62D50A5}|VectrorClass\\VectrorClass.vcxproj|E:\\Python\\ProjectsCpp\\VectrorClass\\VectrorClass\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1057E803-45B3-4229-8187-E665F62D50A5}|VectrorClass\\VectrorClass.vcxproj|solutionrelative:VectrorClass\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector.h",
+              "DocumentMoniker": "E:\\Python\\ProjectsCpp\\VectrorClass\\VectrorClass\\vector.h",
+              "RelativeDocumentMoniker": "VectrorClass\\vector.h",
+              "ToolTip": "E:\\Python\\ProjectsCpp\\VectrorClass\\VectrorClass\\vector.h",
+              "RelativeToolTip": "VectrorClass\\vector.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAHoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T18:04:49.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
